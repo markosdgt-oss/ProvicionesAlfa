@@ -1,0 +1,6 @@
+com\mycompany\provicionesalfa\modelo\producto.class
+modelo\producto.class
+com\mycompany\provicionesalfa\DAO\productoDAO.class
+com\mycompany\provicionesalfa\config\conexion.class
+com\mycompany\provicionesalfa\config\config.class
+com\mycompany\provicionesalfa\controlador\productoControl.class
